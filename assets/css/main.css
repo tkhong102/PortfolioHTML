@@ -2246,8 +2246,8 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("bgspring.jpg"), url("../../bgspring.jpg");
-		background-size: 256px 256px, cover;
+		background: url("../images/bgspring.jpg"), url("../images/bgspring.jpg");
+		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
@@ -2256,18 +2256,18 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("bgSummer2.jpg"), url("../../bgSummer2.jpg");
-		background-size: 256px 256px, cover;
+		background: url("../images/bgSummer2.jpg");
+		background-size: cover;
 		background-attachment: fixed, fixed;
-		/* background-position: top left, center center; */
+		background-position: top left, center center;
 
 	}
 
 /* Two */
 
 	#two {
-		background: url("bg.jpg"), url("../../bg.jpg");
-		background-size: 256px 256px, cover;
+		background: url("../images/bg.jpg");
+		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
@@ -2275,8 +2275,8 @@ input, select, textarea {
 	/* Three */
 
 		#three {
-			background: url("bgWinter2.jpg"), url("../..bgWinter2.jpg");
-			background-size: 256px 256px, cover;
+			background: url("../images/bgWinter2.jpg");
+			/* background-size: 256px 256px, cover; */
 			background-attachment: fixed, fixed;
 			background-position: top left, center center;
 		}
