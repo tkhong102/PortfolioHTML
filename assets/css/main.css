@@ -2246,7 +2246,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("../images/bgspring.jpg"), url("../images/bgspring.jpg");
+		background: url("../images/bgspring.jpg");
 		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
