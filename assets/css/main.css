@@ -599,7 +599,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out;
-		color: #98c593;
+		color: #2169b7;
 	}
 
 	sub {
@@ -674,7 +674,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: #98c593;
+		background-color: #1873db;
 		border: 0;
 		border-radius: 3.5em;
 		color: #ffffff;
@@ -1964,10 +1964,10 @@ input, select, textarea {
 			}
 
 			.main.style1 > .content {
-				-moz-transition: opacity 0.5s ease;
-				-webkit-transition: opacity 0.5s ease;
-				-ms-transition: opacity 0.5s ease;
-				transition: opacity 0.5s ease;
+				-moz-transition: opacity 1s ease;
+				-webkit-transition: opacity 1s ease;
+				-ms-transition: opacity 1s ease;
+				transition: opacity 1s ease;
 				-moz-transform: translateZ(0);
 				-webkit-transform: translateZ(0);
 				-ms-transform: translateZ(0);
@@ -2246,7 +2246,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("../images/bgSpring.jpg");
+		background: url("../images/bgSummer2.jpg");
 		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2266,7 +2266,7 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background: url("../images/bg.jpg");
+		background: url("../images/bgSummer2.jpg");
 		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2275,7 +2275,8 @@ input, select, textarea {
 	/* Three */
 
 		#three {
-			background: url("../images/bgWinter2.jpg");
+			background: url("../images/bgSummer2.jpg");
+			background-size: cover;
 			/* background-size: 256px 256px, cover; */
 			background-attachment: fixed, fixed;
 			background-position: top left, center center;
